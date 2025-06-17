@@ -4,7 +4,7 @@ Transform your Spotify listening history into a unique digital asset. SoundPrint
 
 ## Access the Project
 
-You can access the live project at: [soundprint.icp0.io](https://erpao-gqaaa-aaaad-aalhq-cai.icp0.io/home)
+You can access the live project at: [soundprint.icp0.io](https://kdvcf-iaaaa-aaaad-qhmba-cai.icp0.io/home)
 
 ## Functionality
 
